@@ -10,5 +10,4 @@ git
 - 협업 툴
 slack
 
-<영상 링크>
-- [https://github.com/songmok/ggoBook/issues/26](https://github.com/songmok/ggoBook/issues/26#issue-1616376918)
+https://user-images.githubusercontent.com/118254103/230606924-c24e2c99-1d4a-4761-a662-72325f6ec527.mp4
