@@ -9,3 +9,6 @@ java, gradle, springboot, jpa, mysql, swagger, redis
 git
 - 협업 툴
 slack
+
+## <페이지 시연 동영상 링크(프론트 git)>
+https://github.com/songmok/ggoBook/issues/26
